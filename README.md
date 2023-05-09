@@ -10,7 +10,7 @@ Having more high cards remaining in the deck favors the player. Each card is ass
 | # Count Change  |     # Cards        | </br>
 ------------------ ---------------------
 |     +1          |    3, 4, 5, 6      | </br>
-|                 |                    |
+|                 |
 |      0	        |   # 7, 8, 9        |</br>
 |                 |                    |
 |     -1	        |   10, 'J', 'Q'     | </br>
