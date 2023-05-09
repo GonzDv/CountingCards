@@ -8,11 +8,8 @@ In the casino game Blackjack, a player can determine whether they have an advant
 Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the table below. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low. </br>
 
 | # Count Change  |     # Cards        | </br>
------------------- ---------------------
 |     +1          |    3, 4, 5, 6      | </br>
-|                 |
 |      0	        |   # 7, 8, 9        |</br>
-|                 |                    |
 |     -1	        |   10, 'J', 'Q'     | </br>
 |                 |     # 'K', 'A'     |
 
